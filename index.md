@@ -1,1 +1,2 @@
-import {scatter} from "@bastosluis/introducao-a-vega-lite-e-vega-lite-api"
+<iframe width="100%" height="423" frameborder="0"
+  src="https://observablehq.com/embed/@bastosluis/introducao-a-vega-lite-e-vega-lite-api?cells=scatter"></iframe>
